@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "947625193472",
+    "firebase_url": "https://primeiroprojeto-3d323.firebaseio.com",
+    "project_id": "primeiroprojeto-3d323",
+    "storage_bucket": "primeiroprojeto-3d323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947625193472:android:91462fdb8b519f0c",
+        "android_client_info": {
+          "package_name": "com.example.agao8.primeiroaplicativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947625193472-oo9gm3p8l5vq4vgee95hp8o9e8i4q69r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agao8.primeiroaplicativo",
+            "certificate_hash": "275adc238e9d99c243dc4844a5afba8588791c5c"
+          }
+        },
+        {
+          "client_id": "947625193472-u1s8vrg1b1257gf7hm9a4jjmnkangi0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5prw15KEdoN5bjDyqjNxx0udbpWRyfq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947625193472-u1s8vrg1b1257gf7hm9a4jjmnkangi0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947625193472:android:ebaee907d67d7c90",
+        "android_client_info": {
+          "package_name": "com.example.thiago.primeiroprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947625193472-333mov8vb63p7i72phmjs9o1k1orasf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thiago.primeiroprojeto",
+            "certificate_hash": "482191e52050440070b1287e28644cb6ee233d55"
+          }
+        },
+        {
+          "client_id": "947625193472-u1s8vrg1b1257gf7hm9a4jjmnkangi0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5prw15KEdoN5bjDyqjNxx0udbpWRyfq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947625193472-u1s8vrg1b1257gf7hm9a4jjmnkangi0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
